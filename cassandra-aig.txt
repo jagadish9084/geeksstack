@@ -1,0 +1,12 @@
+CREATE TABLE "rp_captchas"(
+    "visualAnswer" text,
+    "createdAt" timestamp,
+     primary key("visualAnswer")
+)WITH default_time_to_live = 259200;
+
+step1:
+./cqlsh 10.23.210.26 9042 -u jdoe -p mypassword;
+USE rp_sit;
+
+
+/apps/cassandra/apache-cassandra-3.7/bin
