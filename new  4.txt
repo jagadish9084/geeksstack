@@ -1,0 +1,21 @@
+Hi Harrick,
+
+PFB these points which will reflect my contribution within SCB over a period of 1 year:
+
+	Have worked end to end on Research portal project, as part of this project development, I have used various latest technologies like Cassandra, Apache Kafka, Elastic search, Spring boot to make application Interoperable, Scalable, Secured, Efficient and Maintainable.
+	Due to the time constraints, I have worked over weekend to meet the deadline of the project.
+	I have worked on Unified User Model project which provide SCB users a unified way of login to all the SCB products
+	I have worked on bank foundation-services to build reusable and generic components/framework that can be used across the project within the bank to avoid rework and also this will enable developers to focus only on business requirement.
+	I took voluntary action to bring up products test coverage from 30% to 70%.
+	Involved in code reviews and mentoring the team members regularly
+	Contributed in code refactoring and performance optimization across the projects/modules within the bank to achieve highest performance without regard to cost or expense.
+	Lends support and guidance to team members by taking full responsibility of the project, and worked late nights as well to complete the pending Items/task of the teams.
+	Have contributed in preparing technical document and development guide which helps new joiner to start on their own without any hurdle.
+	I used to update my skills proactively to meet the project demands.
+	Made a strong effort to acquire greater experience and skills to increase potential for advancement
+	Continuously produces more than expected
+	Makes effective use of all available resources when given a project
+	Consistently meets all deadlines
+
+Thanks,
+Jagadish
