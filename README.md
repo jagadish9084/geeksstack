@@ -12,3 +12,6 @@ https://github.com/donnemartin/system-design-primer
 
 
 https://www.jetbrains.com/idea/download/download-thanks.html?platform=windowsZip
+
+
+https://www.jetbrains.com/idea/download/download-thanks.html?platform=windowsZip&code=IIC
