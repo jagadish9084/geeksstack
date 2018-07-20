@@ -9,3 +9,6 @@ The System Design Primer
 
 https://github.com/donnemartin/system-design-primer
 
+
+
+https://www.jetbrains.com/idea/download/download-thanks.html?platform=windowsZip
