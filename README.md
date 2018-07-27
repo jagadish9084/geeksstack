@@ -15,3 +15,5 @@ https://www.jetbrains.com/idea/download/download-thanks.html?platform=windowsZip
 
 
 https://www.jetbrains.com/idea/download/download-thanks.html?platform=windowsZip&code=IIC
+
+https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/en/part1/chapter1/introduction_to_rest.html
